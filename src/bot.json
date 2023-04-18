@@ -1,0 +1,20 @@
+{
+  "soru": [
+    {
+      "pattern": ["merhaba", "selam", "hey", "naber"],
+      "response": ["Merhaba! Sana nasıl yardımcı olabilirim?", "Selam! Ne hakkında konuşmak istersin?", "Hey! Senin için ne yapabilirim?", "Naber? Nasıl gidiyor?"]
+    },
+    {
+      "pattern": ["nasılsın", "naber", "iyi misin"],
+      "response": ["Ben bir chatbot olduğum için hissetmiyorum, ama teşekkür ederim."]
+    },
+    {
+      "pattern": ["teşekkür ederim", "sağ ol", "teşekkürler"],
+      "response": ["Rica ederim, senin için her zaman buradayım."]
+    },
+    {
+      "pattern": ["görüşürüz", "hoşça kal"],
+      "response": ["Görüşürüz! Başka bir sorunuz olursa buradayım."]
+    }
+  ]
+}
