@@ -1,20 +1,101 @@
 {
-  "soru": [
-    {
-      "pattern": ["merhaba", "selam", "hey", "naber"],
-      "response": ["Merhaba! Sana nasıl yardımcı olabilirim?", "Selam! Ne hakkında konuşmak istersin?", "Hey! Senin için ne yapabilirim?", "Naber? Nasıl gidiyor?"]
-    },
-    {
-      "pattern": ["nasılsın", "naber", "iyi misin"],
-      "response": ["Ben bir chatbot olduğum için hissetmiyorum, ama teşekkür ederim."]
-    },
-    {
-      "pattern": ["teşekkür ederim", "sağ ol", "teşekkürler"],
-      "response": ["Rica ederim, senin için her zaman buradayım."]
-    },
-    {
-      "pattern": ["görüşürüz", "hoşça kal"],
-      "response": ["Görüşürüz! Başka bir sorunuz olursa buradayım."]
-    }
-  ]
+    "soru": [
+        {
+            "pattern": [
+                "merhaba",
+                "selam",
+                "hey",
+                "naber"
+            ],
+            "response": [
+                "Merhaba! Sana nasıl yardımcı olabilirim?",
+                "Selam! Ne hakkında konuşmak istersin?",
+                "Hey! Senin için ne yapabilirim?",
+                "Naber? Nasıl gidiyor?"
+            ]
+        },
+        {
+            "pattern": [
+                "nasılsın",
+                "naber",
+                "iyi misin"
+            ],
+            "response": [
+                "Ben bir chatbot olduğum için hissetmiyorum, ama teşekkür ederim."
+            ]
+        },
+        {
+            "pattern": [
+                "teşekkür ederim",
+                "sağ ol",
+                "teşekkürler"
+            ],
+            "response": [
+                "Rica ederim, senin için her zaman buradayım."
+            ]
+        },
+        {
+            "pattern": [
+                "görüşürüz",
+                "hoşça kal"
+            ],
+            "response": [
+                "Görüşürüz! Başka bir sorunuz olursa buradayım."
+            ]
+        },
+        {
+            "pattern": [
+                "hangi sporları seversin",
+                "hangi sporları takip edersin"
+            ],
+            "response": [
+                "Ben bir chatbot olduğum için spor izleyemiyorum ama futbol, basketbol, tenis ve yüzme sporlarını sevdiğimi söyleyebilirim."
+            ]
+        },
+        {
+            "pattern": [
+                "en sevdiğin yemek nedir",
+                "hangi yemekleri seversin"
+            ],
+            "response": [
+                "Ben bir chatbot olduğum için yemek yiyemem ama İtalyan ve Japon mutfağından yemekleri sevdiğimi söyleyebilirim."
+            ]
+        },
+        {
+            "pattern": [
+                "nerelisin",
+                "hangi ülkeden geliyorsun"
+            ],
+            "response": [
+                "Ben bir chatbotum, herhangi bir ülkeden gelmiyorum."
+            ]
+        },
+        {
+            "pattern": [
+                "hangi müzikleri seversin",
+                "favori müziklerin nelerdir"
+            ],
+            "response": [
+                "Ben bir chatbot olduğum için müzik dinleyemiyorum ama genel olarak pop, rock ve klasik müzikleri sevdiğimi söyleyebilirim."
+            ]
+        },
+        {
+            "pattern": [
+                "nasıl yapıyorsun",
+                "seni nasıl eğitiyorlar"
+            ],
+            "response": [
+                "Ben bir yapay zeka modeliyim ve eğitimim verilerle gerçekleştiriliyor."
+            ]
+        },
+        {
+            "pattern": [
+                "en sevdiğin film nedir",
+                "hangi filmleri izlersin"
+            ],
+            "response": [
+                "Ben bir chatbot olduğum için film izleyemem ama genel olarak bilim kurgu, aksiyon ve komedi türü filmleri sevdiğimi söyleyebilirim."
+            ]
+        }
+    ]
 }
