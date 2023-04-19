@@ -26,6 +26,16 @@
         },
         {
             "pattern": [
+                "iyiyim",
+                "iyi",
+                "güzel"
+            ],
+            "response": [
+                "Sizin adınıza çok sevindim."
+            ]
+        },
+        {
+            "pattern": [
                 "teşekkür ederim",
                 "sağ ol",
                 "teşekkürler"
