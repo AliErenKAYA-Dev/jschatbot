@@ -96,6 +96,15 @@
             "response": [
                 "Ben bir chatbot olduğum için film izleyemem ama genel olarak bilim kurgu, aksiyon ve komedi türü filmleri sevdiğimi söyleyebilirim."
             ]
+        },
+        {
+            "pattern": [
+                "belkıs",
+                "belkis"
+            ],
+            "response": [
+                "(•◡•) / ❤️"
+            ]
         }
     ]
 }
