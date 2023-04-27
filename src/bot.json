@@ -109,6 +109,16 @@
         },
         {
             "pattern": [
+                "Ali",
+                "Eren",
+                "KAYA"
+            ],
+            "response": [
+                "Ali Eren KAYA, Ekim 2003'te doğmuş bir yazılım tutkunu. 8 yaşında bir 2D oyun oynarken kodların dünyasına ilgi duymaya başlamış. İnternet siteleri nasıl yapılır diye merak etmiş ve araştırmış. İlk web sitesini PHP kullanarak oluşturmuş ve arkadaşlarını davet etmiş. Lise hayatında yarışmalara katılarak robotik kodlama ve yapay zeka projeleri geliştirmiş. Şu anda öğrencilere yazılım dersi veriyor ve uluslararası yarışmalara hazırlıyor."
+            ]
+        },
+        {
+            "pattern": [
                 "belkıs",
                 "belkis",
                 "zort"
